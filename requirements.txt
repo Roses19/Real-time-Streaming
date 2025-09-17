@@ -1,0 +1,5 @@
+apache-airflow==2.9.3
+apache-airflow-providers-standard
+apache-airflow-providers-apache-kafka
+kafka-python
+cassandra-driver==3.29.2
